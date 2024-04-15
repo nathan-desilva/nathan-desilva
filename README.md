@@ -1,7 +1,8 @@
 ### 👋 My name is Nathan De Silva
 #### I'm a student at St.Mother Teresa
 
-![Header](./your-header-image-name.png)
+![github-header-image (8)](https://github.com/nathan-desilva/nathan-desilva/assets/159185114/0a6a5aba-8d42-413e-9b42-d7d6ee7cef37)
+
 
 Here are some ideas to get you started:
 
