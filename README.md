@@ -1,4 +1,4 @@
-### 👋 My name is Nathan Xavier De Silva Dos Santos Aveiro Nazario
+### 👋 My name is Nathan De Silva
 #### I'm a student at St.Mother Teresa
 
 Here are some ideas to get you started:
