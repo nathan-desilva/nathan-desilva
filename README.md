@@ -1,5 +1,5 @@
 ### 👋 My name is Nathan De Silva
-#### I'm a student at St.Mother Teresa
+#### I'm a student at St.Mother Teresa High School
 
 ![github-header-image (8)](https://github.com/nathan-desilva/nathan-desilva/assets/159185114/0a6a5aba-8d42-413e-9b42-d7d6ee7cef37)
 
